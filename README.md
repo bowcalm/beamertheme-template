@@ -7,7 +7,7 @@ This is a template for customizing Beamer. Elements that can be customized refer
 ## Beamer's Colors
 
 The filename of the color style "xxx" must be "beamercolorthemexxx.sty".  
-Specify the color using the `setbeamercolor*` command. Perhaps "fg" means foreground and "bg" means background.
+Specify the color using the `setbeamercolor` command. Perhaps "fg" means foreground and "bg" means background.
 
 ### Command definition
 
